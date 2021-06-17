@@ -3,7 +3,16 @@
 
 ## Introduction 👋
 
-Functions
+### What is Pandas in Python?
+The most famous python library which is utilized for data analysis is called Pandas. Pandas render extremely optimized performance with back-end source code which is written totally in C or Python. Also, using pandas you can easily familiar with your data by cleaning, transforming, and analyzing it.
+
+In Pandas, the data is usually utilized to support statistical analysis in SciPy, plotting functions from Matplotlib, and machine learning algorithms in Scikit-learn.
+
+### Core Components of Pandas Data Structure
+Pandas have two core data structure components, and all operations are based on those two objects. Organizing data in a particular way is known as a data structure. Here are the two pandas data structures:
+
+* **Series**
+* **DataFrame**
 
 
 ## Table of contents 📋
@@ -24,7 +33,7 @@ Functions
 [pokemon_data.csv](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/pokemon_data.csv)
 
 
-[Python_Pandas_Methods](https://github.com/milaan9/10_Python_Pandas_Module/tree/main/001_Python_Pandas_Methods)
+[Python_Pandas_Methods:](https://github.com/milaan9/10_Python_Pandas_Module/tree/main/001_Python_Pandas_Methods)
 
 
    [001_Python_Pandas_DataFrame_from_Dictionary](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/001_Python_Pandas_DataFrame_from_Dictionary.ipynb)
