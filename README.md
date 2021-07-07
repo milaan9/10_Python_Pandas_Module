@@ -19,7 +19,7 @@
 ## Introduction 👋
 
 ### What is Pandas in Python?
-The most famous python library which is utilized for data analysis is called [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/). Pandas render extremely optimized performance with back-end source code which is written totally in C or Python. Also, using pandas you can easily familiar with your data by cleaning, transforming, and analyzing it.
+The most famous python library which is utilized for data analysis is called [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/). Pandas render extremely optimized performance with back-end source code which is written totally in C or Python. Also, using pandas you can easily familiar with your data by cleaning, transforming, and analyzing it.
 
 In Pandas, the data is usually utilized to support statistical analysis in SciPy, plotting functions from Matplotlib, and machine learning algorithms in Scikit-learn.
 
