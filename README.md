@@ -19,7 +19,7 @@
 ## Introduction 👋
 
 ### What is Pandas in Python?
-The most famous python library which is utilized for data analysis is called Pandas. Pandas render extremely optimized performance with back-end source code which is written totally in C or Python. Also, using pandas you can easily familiar with your data by cleaning, transforming, and analyzing it.
+The most famous python library which is utilized for data analysis is called [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/). Pandas render extremely optimized performance with back-end source code which is written totally in C or Python. Also, using pandas you can easily familiar with your data by cleaning, transforming, and analyzing it.
 
 In Pandas, the data is usually utilized to support statistical analysis in SciPy, plotting functions from Matplotlib, and machine learning algorithms in Scikit-learn.
 
@@ -79,7 +79,7 @@ These are online read-only versions.
 
 ### How can I thank you for writing and sharing this tutorial? 🌷
 
-You can ⭐ star this tutorial. Starring is free for you, but it tells me and other people that it was helpful and you like this tutorial.
+You can <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=if%20useful&style=style=flat&color=blue" alt="Star Badge"/> Starring is free for you, but it tells me and other people that it was helpful and you like this tutorial.
 
 Go [here](https://github.com/milaan9/10_Python_Pandas_Module) if you aren't here already and click the "⭐ Star" button in the top right corner. You will be asked to create a GitHub account if you don't already have one.
 
