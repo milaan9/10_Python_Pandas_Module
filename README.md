@@ -36,6 +36,27 @@ Pandas have two core data structure components, and all operations are based on 
 [001_Python_Pandas_DataFrame](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_DataFrame.ipynb)
 
 
+ - [001_Python_Pandas_DataFrame_from_Dictionary](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/001_Python_Pandas_DataFrame_from_Dictionary.ipynb)
+   
+ - [002_Python_Pandas_DataFrame_from_List](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/002_Python_Pandas_DataFrame_from_List.ipynb)
+   
+ - [003_Python_Pandas_DataFrame_head()_and_tail()](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/003_Python_Pandas_DataFrame_head()_and_tail().ipynb)
+   
+ - [004_Python_Pandas_DataFrame_drop_columns](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/004_Python_Pandas_DataFrame_drop_columns.ipynb)
+   
+ - [005_Python_Pandas_DataFrame_drop_duplicates](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/005_Python_Pandas_DataFrame_drop_duplicates.ipynb)
+   
+ - [006_Python_Pandas_DataFrame_drop_columns_with_NA](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/006_Python_Pandas_DataFrame_drop_columns_with_NA.ipynb)
+   
+ - [007_Python_Pandas_DataFrame_rename_columns](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/007_Python_Pandas_DataFrame_rename_columns.ipynb)
+   
+ - [008_Python_Pandas_DataFrame_to_Python_dictionary](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/008_Python_Pandas_DataFrame_to_Python_dictionary.ipynb)
+   
+ - [009_Python_Pandas_DataFrame_set_index](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/009_Python_Pandas_DataFrame_set_index.ipynb)
+   
+ - [010_Python_Pandas_DataFrame_reset_index](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/010_Python_Pandas_DataFrame_reset_index.ipynb)
+
+
 [002_Python_Pandas_Exercise_1](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/002_Python_Pandas_Exercise_1.ipynb)
 
 
@@ -48,28 +69,10 @@ Pandas have two core data structure components, and all operations are based on 
 [pokemon_data.csv](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/pokemon_data.csv)
 
 
-[Python_Pandas_Methods:](https://github.com/milaan9/10_Python_Pandas_Module/tree/main/001_Python_Pandas_Methods)
+[Pandas Cheat Sheet Data Wrangling in Python.pdf](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/Pandas%20Cheat%20Sheet%20Data%20Wrangling%20in%20Python.pdf)
 
 
- - [001_Python_Pandas_DataFrame_from_Dictionary](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/001_Python_Pandas_DataFrame_from_Dictionary.ipynb)
-   
- - [002_Python_Pandas_DataFrame_from_List](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/002_Python_Pandas_DataFrame_from_List.ipynb)
-   
-   [003_Python_Pandas_DataFrame_head()_and_tail()](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/003_Python_Pandas_DataFrame_head()_and_tail().ipynb)
-   
-   [004_Python_Pandas_DataFrame_drop_columns](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/004_Python_Pandas_DataFrame_drop_columns.ipynb)
-   
-   [005_Python_Pandas_DataFrame_drop_duplicates](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/005_Python_Pandas_DataFrame_drop_duplicates.ipynb)
-   
-   [006_Python_Pandas_DataFrame_drop_columns_with_NA](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/006_Python_Pandas_DataFrame_drop_columns_with_NA.ipynb)
-   
-   [007_Python_Pandas_DataFrame_rename_columns](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/007_Python_Pandas_DataFrame_rename_columns.ipynb)
-   
-   [008_Python_Pandas_DataFrame_to_Python_dictionary](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/008_Python_Pandas_DataFrame_to_Python_dictionary.ipynb)
-   
-   [009_Python_Pandas_DataFrame_set_index](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/009_Python_Pandas_DataFrame_set_index.ipynb)
-   
-   [010_Python_Pandas_DataFrame_reset_index](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/001_Python_Pandas_Methods/010_Python_Pandas_DataFrame_reset_index.ipynb)
+[Pandas Cheat Sheet for Data Science in Python.pdf](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/Pandas%20Cheat%20Sheet%20for%20Data%20Science%20in%20Python.pdf)
 
 
 These are online read-only versions.
