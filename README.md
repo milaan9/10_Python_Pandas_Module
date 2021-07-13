@@ -75,6 +75,61 @@ Pandas have two core data structure components, and all operations are based on 
 [Pandas Cheat Sheet for Data Science in Python.pdf](https://github.com/milaan9/10_Python_Pandas_Module/blob/main/Pandas%20Cheat%20Sheet%20for%20Data%20Science%20in%20Python.pdf)
 
 
+## Main Features
+Here are just a few of the things that pandas does well:
+
+  - Easy handling of [**missing data**][missing-data] (represented as
+    `NaN`) in floating point as well as non-floating point data
+  - Size mutability: columns can be [**inserted and
+    deleted**][insertion-deletion] from DataFrame and higher dimensional
+    objects
+  - Automatic and explicit [**data alignment**][alignment]: objects can
+    be explicitly aligned to a set of labels, or the user can simply
+    ignore the labels and let `Series`, `DataFrame`, etc. automatically
+    align the data for you in computations
+  - Powerful, flexible [**group by**][groupby] functionality to perform
+    split-apply-combine operations on data sets, for both aggregating
+    and transforming data
+  - Make it [**easy to convert**][conversion] ragged,
+    differently-indexed data in other Python and NumPy data structures
+    into DataFrame objects
+  - Intelligent label-based [**slicing**][slicing], [**fancy
+    indexing**][fancy-indexing], and [**subsetting**][subsetting] of
+    large data sets
+  - Intuitive [**merging**][merging] and [**joining**][joining] data
+    sets
+  - Flexible [**reshaping**][reshape] and [**pivoting**][pivot-table] of
+    data sets
+  - [**Hierarchical**][mi] labeling of axes (possible to have multiple
+    labels per tick)
+  - Robust IO tools for loading data from [**flat files**][flat-files]
+    (CSV and delimited), [**Excel files**][excel], [**databases**][db],
+    and saving/loading data from the ultrafast [**HDF5 format**][hdfstore]
+  - [**Time series**][timeseries]-specific functionality: date range
+    generation and frequency conversion, moving window statistics,
+    moving window linear regressions, date shifting and lagging, etc.
+
+
+   [missing-data]: https://pandas.pydata.org/pandas-docs/stable/missing_data.html#working-with-missing-data
+   [insertion-deletion]: https://pandas.pydata.org/pandas-docs/stable/dsintro.html#column-selection-addition-deletion
+   [alignment]: https://pandas.pydata.org/pandas-docs/stable/dsintro.html?highlight=alignment#intro-to-data-structures
+   [groupby]: https://pandas.pydata.org/pandas-docs/stable/groupby.html#group-by-split-apply-combine
+   [conversion]: https://pandas.pydata.org/pandas-docs/stable/dsintro.html#dataframe
+   [slicing]: https://pandas.pydata.org/pandas-docs/stable/indexing.html#slicing-ranges
+   [fancy-indexing]: https://pandas.pydata.org/pandas-docs/stable/indexing.html#advanced-indexing-with-ix
+   [subsetting]: https://pandas.pydata.org/pandas-docs/stable/indexing.html#boolean-indexing
+   [merging]: https://pandas.pydata.org/pandas-docs/stable/merging.html#database-style-dataframe-joining-merging
+   [joining]: https://pandas.pydata.org/pandas-docs/stable/merging.html#joining-on-index
+   [reshape]: https://pandas.pydata.org/pandas-docs/stable/reshaping.html#reshaping-and-pivot-tables
+   [pivot-table]: https://pandas.pydata.org/pandas-docs/stable/reshaping.html#pivot-tables-and-cross-tabulations
+   [mi]: https://pandas.pydata.org/pandas-docs/stable/indexing.html#hierarchical-indexing-multiindex
+   [flat-files]: https://pandas.pydata.org/pandas-docs/stable/io.html#csv-text-files
+   [excel]: https://pandas.pydata.org/pandas-docs/stable/io.html#excel-files
+   [db]: https://pandas.pydata.org/pandas-docs/stable/io.html#sql-queries
+   [hdfstore]: https://pandas.pydata.org/pandas-docs/stable/io.html#hdf5-pytables
+   [timeseries]: https://pandas.pydata.org/pandas-docs/stable/timeseries.html#time-series-date-functionality
+
+
 These are online read-only versions.
 
 
