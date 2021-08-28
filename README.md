@@ -76,6 +76,7 @@ Pandas have two core data structure components, and all operations are based on 
 * **Series**
 * **DataFrame**
 
+---
 
 ## Table of contents 📋
 
@@ -113,7 +114,6 @@ Open your [![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?&style=
 Once Installed now we can import it inside our python code.
 
 ---  
- 
 
 ## Frequently asked questions ❔
 
@@ -122,6 +122,8 @@ Once Installed now we can import it inside our python code.
 You can <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=if%20useful&style=style=flat&color=blue" alt="Star Badge"/> Starring is free for you, but it tells me and other people that it was helpful and you like this tutorial.
 
 Go [here](https://github.com/milaan9/10_Python_Pandas_Module) if you aren't here already and click the "⭐ Star" button in the top right corner. You will be asked to create a GitHub account if you don't already have one.
+
+---
 
 ### How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" />
 
@@ -141,6 +143,7 @@ This will clear all the outputs and now you can understand each statement and le
 
 If you have git and you know how to use it, you can also clone the repository instead of downloading a zip and extracting it. An advantage with doing it this way is that you don't need to download the whole tutorial again to get the latest version of it, all you need to do is to pull with git and run ipython notebook again.
 
+---
 
 ## Authors ✍️
 
@@ -152,6 +155,7 @@ If you have trouble with this tutorial please tell me about it by [Create an iss
 
 If you like this tutorial, please [give it a ⭐ star](https://github.com/milaan9/10_Python_Pandas_Module).
 
+---
 
 ## Licence 📜
 
